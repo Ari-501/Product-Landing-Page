@@ -1,6 +1,6 @@
 # Responsive Web Design - Product Landing Page
 
-Solution Link (live link): https://arig501.github.io/Product-Landing-Page/
+Solution Link (live link): https://ari-501.github.io/Product-Landing-Page/
 
 **Build a Product Landing Page**
 
